@@ -1,3 +1,5 @@
+[![Run on Repl.it](https://repl.it/badge/github/XL19860214/boilerplate-time-calculator)](https://repl.it/github/XL19860214/boilerplate-time-calculator)
+
 ### Assignment
 
 Write a function named `add_time` that takes in two required parameters and one optional parameter:
